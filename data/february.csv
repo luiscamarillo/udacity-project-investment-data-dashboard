@@ -1,0 +1,6 @@
+Emisora,Fecha,Hora,Descripción,Títulos,Precio,Tasa,Plazo,Intereses,Impuestos,Comisión,Importe,Saldo
+FEBRERO 2022,,,,,,,,,,,,
+BND *,11/Feb/2022,11:23:10,Compra de Acciones.,2,"$2,087.49",0,0,$0.00,$1.67,$10.44,"$4,187.09","-$1,924.29"
+VT *,14/Feb/2022,9:17:10,Compra de Acciones.,2,"$2,087.49",0,0,$0.00,$1.67,$10.44,"$4,187.09","-$12,211.38"
+BND *,20/Feb/2022,12:50:10,Compra de Acciones.,1,"$2,060.00",0,0,$0.00,$0.82,$5.15,"$2,065.97","-$22,344.65"
+VT *,25/Feb/2022,16:45:33,Compra de Acciones.,5,"$2,060.79",0,0,$0.00,$4.12,$25.76,"$10,333.83","-$34,858.48"
