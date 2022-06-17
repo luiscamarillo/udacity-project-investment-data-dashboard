@@ -19,7 +19,7 @@ I wanted to build a useful web app that made use of skills acquired through the 
 
 ## Results & Improvements
 
-I use flask to create the web app, and plotly to build the interactive charts on the dashboard, creating an interesting tracker for any porfolio. I also wanted to test out Heroku for the first time with this project.
+I use flask to create the web app, and plotly to build the interactive charts on the dashboard, creating an interesting tracker for any porfolio. I also wanted to test out Heroku for the first time with this project. The app can be found [here](luiscamarillo.com/investments-dashboard).
 
 As my personal investment tracker, this is very much built around my personal taste -- in fact, as a (Boglehead)[bogleheads.org], it probably has too many bells and whistles. As I only use GBM+, this app is already built around their transaction history download layouts. Again, since I only buy and hold low-cost, broadly-diversified index ETFs, this app does not track stock sales. Perhaps, if in the future I decide to sell something, I might add this feature. 
 
